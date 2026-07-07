@@ -1,0 +1,29 @@
+{
+  "identifier" : "CorkBoardStoreKit",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "3.99",
+      "familyShareable" : false,
+      "internalID" : "corkboard_pro_unlock",
+      "localizations" : [
+        {
+          "description" : "Cellar capacity planning and unlimited bottle history",
+          "displayName" : "Cork Board Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "corkboard_pro_unlock",
+      "referenceName" : "Cork Board Pro Unlock",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
